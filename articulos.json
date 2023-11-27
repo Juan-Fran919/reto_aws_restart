@@ -1,46 +1,22 @@
 {
     "articulos": [
         {
-            "nombre": "Pez",
-            "precio": "44",
-            "cantidad": "cereal",
-            "descripcion": "un pez con cereal"
-        },
-        {
-            "nombre": "pez",
-            "precio": 4.0,
-            "cantidad": "222",
-            "descripcion": "ffff"
-        },
-        {
-            "nombre": "pez",
-            "precio": 444.0,
-            "cantidad": 3,
-            "descripcion": "2222"
-        },
-        {
-            "nombre": "pez",
-            "precio": 44.0,
-            "cantidad": 555,
-            "descripcion": "8"
-        },
-        {
-            "nombre": "pez",
-            "precio": 3.4,
-            "cantidad": 5,
-            "descripcion": "no se"
-        },
-        {
-            "nombre": "peZ",
-            "precio": 1.0,
-            "cantidad": 1,
-            "descripcion": "1"
-        },
-        {
             "nombre": "PEZ",
             "precio": 5.0,
             "cantidad": 6,
             "descripcion": "pescado nuevo precio"
+        },
+        {
+            "nombre": "CEREAL",
+            "precio": 55.0,
+            "cantidad": 78,
+            "descripcion": "ceral con azucar"
+        },
+        {
+            "nombre": "TAZA",
+            "precio": 80.0,
+            "cantidad": 6,
+            "descripcion": "tazas color negro"
         }
     ]
 }

@@ -83,7 +83,7 @@ def es_flotante(cadena):
 while stop_while:
     print("Bienvenido al Sistema de Gestión de Inventario")
     print("Seleccione una opción:")
-    print("""1. Ingresar un nuevo producto
+    print("""   1. Ingresar un nuevo producto
           2. Actualizar un producto
           3. Eliminar un producto
           4. Buscar un producto
